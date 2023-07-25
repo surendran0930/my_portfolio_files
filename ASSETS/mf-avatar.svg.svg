@@ -1,0 +1,28 @@
+<svg width="210" height="230" viewBox="0 0 210 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="mf-avatar.svg" clip-path="url(#clip0_1_675)">
+<g id="Website">
+<g id="mf-avatar">
+<g id="Circle">
+<path id="Circle-Background" d="M105.29 229.72C163.009 229.72 209.8 182.93 209.8 125.211C209.8 67.4917 163.009 20.7013 105.29 20.7013C47.5714 20.7013 0.781006 67.4917 0.781006 125.211C0.781006 182.93 47.5714 229.72 105.29 229.72Z" fill="#7510F7"/>
+<g id="Mask group">
+<mask id="mask0_1_675" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="20" width="210" height="210">
+<g id="Group">
+<path id="Vector" d="M105.29 229.72C163.009 229.72 209.8 182.93 209.8 125.211C209.8 67.4917 163.009 20.7013 105.29 20.7013C47.5714 20.7013 0.781006 67.4917 0.781006 125.211C0.781006 182.93 47.5714 229.72 105.29 229.72Z" fill="#7510F7"/>
+</g>
+</mask>
+<g mask="url(#mask0_1_675)">
+<g id="&#240;&#159;&#150;&#141;-Circle-Color">
+<path id="&#240;&#159;&#150;&#141;Color" d="M210.231 20.7013H0.781006V229.72H210.231V20.7013Z" fill="#7510F7"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_675">
+<rect width="209.986" height="229.34" fill="white" transform="translate(0.00683594 0.380005)"/>
+</clipPath>
+</defs>
+</svg>
